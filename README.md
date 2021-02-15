@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kavindu-malith
 - 👀 I’m interested in programing
 - 🌱 I’m currently learning NIBM
-- 💞️ I’m looking to collaborate on Softwear company
+- 💞️ I’m looking to collaborate on Software company
 - 📫 How to reach me ...
 
 <!---
